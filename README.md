@@ -1,5 +1,7 @@
 # Северная точка
 
+[Открыть сайт](https://sfycus.github.io/portfolio-sites/sites/northstar/) · [Каталог проектов](https://sfycus.github.io/portfolio-sites/)
+
 Экспедиционное бюро · самостоятельный сайт для портфолио.
 
 <img src="assets/khibiny-hero.jpg" alt="Фотография для проекта Северная точка" width="760">
